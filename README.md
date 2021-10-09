@@ -1,1 +1,6 @@
-# programing_task
+# 志成販売プログラミング課題
+
+志成販売の選考におけるプログラミング課題のコードをgithub上に提出いたします。
+
+課題内容「HTML,CSS,Javascriptを使用したToDoアプリの作成」
+
