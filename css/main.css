@@ -1,0 +1,28 @@
+body {
+    background-color: lightgray;
+}
+
+#headline {
+    background-color: black;    
+    color: white;
+    
+}
+
+#title {
+    text-align: center;
+}
+#ToDoRist {
+    text-align: center;
+}
+#DoneRist {
+    text-align: center;
+    
+}
+#add_button {
+    background-color: blue;
+    color: white;
+}
+#del_button {
+    background-color: red;
+    color: white;
+}
